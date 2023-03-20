@@ -5,13 +5,11 @@
  * Open for collaboration on various projects specifically those that involve automation / UX or improve users computer proficiency.
  * Feel free to connect with me if you think I can assist you / or if you have any startup questions.
 
-<br/>
 
 ## Contact Info
 [![Email](https://img.shields.io/badge/-Email-3655d1?style=flat&ogoColor=white)](mailto:contact@idosaroka.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ido-saroka/)
 
-<br/>
 
 ## Professional Knowledge
  ### Languages
