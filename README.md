@@ -13,7 +13,7 @@
 
 ## Professional Knowledge
  ### Languages
-  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=CSharp&logoColor=7e10cc)
+  [![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=CSharp&logoColor=7e10cc)](https://github.com/Ido-Saroka/CSharp)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   [![Powershell](https://img.shields.io/badge/-Powershell-333333?style=flat&logo=Powershell)](https://github.com/Ido-Saroka/Powershell)
   ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
