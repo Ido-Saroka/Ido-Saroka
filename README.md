@@ -36,6 +36,7 @@
   ![WixToolset](https://img.shields.io/badge/-WixToolset-333333?style=flat&logo=WixToolset)
   ![PSake](https://img.shields.io/badge/-PSake-333333?style=flat&logo=psake)
   ![PostgresSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
+  ![Liquibase](https://img.shields.io/badge/-Liquibase-333333?style=flat&logo=Liquibase)
   ![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache)
   ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
   ![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=Cloudflare)
