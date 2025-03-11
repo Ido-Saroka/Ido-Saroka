@@ -7,7 +7,6 @@
 
 
 ## Contact Info
-[![Email](https://img.shields.io/badge/-Email-3655d1?style=flat&ogoColor=white)](mailto:contact@idosaroka.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ido-saroka/)
 
 
