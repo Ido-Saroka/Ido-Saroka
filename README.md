@@ -23,6 +23,7 @@
 
 ### Libraries and Frameworks
  ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
+ ![Winforms](https://img.shields.io/badge/-Winforms-333333?style=flat&logo=CSharp&logoColor=7e10cc)
  ![WPF](https://img.shields.io/badge/-WPF-333333?style=flat&logo=CSharp&logoColor=7e10cc)
  ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=WordPress)
 
